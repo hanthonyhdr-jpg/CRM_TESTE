@@ -1,0 +1,3 @@
+"""
+Init do módulo app
+"""
